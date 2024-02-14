@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\bin\Debug\tas_kagit_makas.exe.config
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\bin\Debug\tas_kagit_makas.exe
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\bin\Debug\tas_kagit_makas.pdb
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.exe
+C:\Users\ACER\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.pdb
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\bin\Debug\tas_kagit_makas.exe.config
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\bin\Debug\tas_kagit_makas.exe
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\bin\Debug\tas_kagit_makas.pdb
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.csproj.AssemblyReference.cache
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.csproj.CoreCompileInputs.cache
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.exe
+C:\Users\Samet Uçar\Desktop\ders\Can Boz C#\tas_kagit_makas\tas_kagit_makas\obj\Debug\tas_kagit_makas.pdb
